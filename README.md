@@ -1,9 +1,7 @@
-# ZeroMile
-https://zeromile.herokuapp.com/
+# LISTED THINGS
 
-A restaurant review webapp listing various restaurants added by different users. 
 
-Having features of authentication,map location,adding restaurants,adding reviews etc.
+A application that enables student on the campus to sell their item in campus it self to their batch mate,sinior ,junior.
 
 • Front End-EJS, CSS, JS, Bootstrap
 
